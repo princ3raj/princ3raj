@@ -10,6 +10,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=princ3raj&repo=Notes)](https://github.com/princ3raj/Notes)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=princ3raj&repo=MediaLibrary)](https://github.com/princ3raj/MediaLibrary)
+
 
 
 
